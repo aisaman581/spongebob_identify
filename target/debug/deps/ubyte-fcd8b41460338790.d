@@ -1,0 +1,11 @@
+D:\Code Projects\Spongebob\spongebob_identify\target\debug\deps\libubyte-fcd8b41460338790.rmeta: C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs
+
+D:\Code Projects\Spongebob\spongebob_identify\target\debug\deps\libubyte-fcd8b41460338790.rlib: C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs
+
+D:\Code Projects\Spongebob\spongebob_identify\target\debug\deps\ubyte-fcd8b41460338790.d: C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs
+
+C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs:
+C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs:
+C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs:
+C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs:
+C:\Users\drago\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs:
